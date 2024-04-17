@@ -1,1 +1,6 @@
-
+!!! Important !!! 
+In order to use the experimental paradigm on your folder, 
+You need to upload all experimental files, 
+Go to folder "pics" and put all files in the subfolders ("pics1", "pics2" and etc) into a "pics" folder. 
+The psychopy will refer to the folder "pics" and will expect all stimulus files (grids) to be inside it, but not in the subfolders. 
+Subfolders were used only for uploading purposes. 
