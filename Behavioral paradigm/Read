@@ -4,3 +4,7 @@ You need to upload all experimental files,
 Go to folder "pics" and put all files in the subfolders ("pics1", "pics2" and etc) into a "pics" folder. 
 The psychopy will refer to the folder "pics" and will expect all stimulus files (grids) to be inside it, but not in the subfolders. 
 Subfolders were used only for uploading purposes. 
+
+!!! Important !!! 
+Direct order  - this experiment use key "Q" as the correct answer for participants ("P" indicate incorrect answer). 
+Reverse order - this experiment use key "P" as the correct answer for participants ("Q" indicate incorrect answer). 
